@@ -1,0 +1,22 @@
+<!--pages/home/home.wxml-->
+<text>pages/home/home.wxml</text>
+<i-grid  i-class="homeitem">
+    <i-grid-item>
+      
+            <image  style="height:158px;width:114px" src="../../image/fm.png" />
+       
+        <i-grid-label>力学</i-grid-label>
+    </i-grid-item>
+     <i-grid-item>
+      
+            <image  style="height:158px;width:114px" src="../../image/fm.png" />
+       
+        <i-grid-label>力学</i-grid-label>
+    </i-grid-item>
+     <i-grid-item>
+      
+            <image  style="height:158px;width:114px" src="../../image/fm.png" />
+       
+        <i-grid-label>力学</i-grid-label>
+    </i-grid-item>
+</i-grid>

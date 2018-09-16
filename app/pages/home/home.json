@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "i-button": "../../compnents/button/index",
+    "i-card": "../../compnents/card/index",
+    "i-cell-group": "../../compnents/cell-group/index",
+    "i-cell": "../../compnents/cell/index",
+    "i-grid": "../../compnents/grid/index",
+    "i-grid-item": "../../compnents/grid-item/index",
+    "i-grid-icon": "../../compnents/grid-icon/index",
+    "i-grid-label": "../../compnents/grid-label/index"
+  }
+}
